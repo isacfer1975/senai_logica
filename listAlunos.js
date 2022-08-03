@@ -13,7 +13,7 @@ for (cont = 0 ; cont < alunos.length ; cont++){
         console.log("seu número é " + cont + " e é par!");
     } else {
         console.log("seu número é " + cont + " e é ímpar!");
-    ;}
+    }
     
    //});
 }
